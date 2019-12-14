@@ -97,7 +97,7 @@
 						
 
 							<li>
-								<a href="admissions">Admissions</a>
+								<a href="admissions.php">Admissions</a>
 							</li>
 
 							<li>
