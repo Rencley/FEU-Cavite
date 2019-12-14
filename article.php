@@ -46,7 +46,7 @@ $get_id = $_GET['article'];
 		                <!--Text-->
 		                <p class="card-text text-center font-weight-bold"><?php echo $row['article_title']; ?></p>
 		                <div class="p-t-10">
-		                <a href="read_article<?php echo '?article_token='.$row['article_token']; ?>" 
+		                <a href="read_article.php<?php echo '?article_token='.$row['article_token']; ?>" 
 		                  class="btn bgi btn-md ">Read more
 		                </a>
 		            	</div>
