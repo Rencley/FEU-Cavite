@@ -29,7 +29,7 @@
 		    	In academic year 2016-2017, the <b>Senior High School (SHS) Department</b> successfully implemented the first year of SHS and accommodated more than 150 students from Cavite, Laguna, and Batangas areas into the STEM, ABM, and HUMSS academic tracks.<br>	<br>
 	         	</div>
 	         	 <div class="image-wrapper float-right p-l-30 p-r-30">
-		                <img src="assets/images/about/BED.jpg" alt="">
+		                <img src="assets/images/about/HED.jpg" alt="">
 		         </div>
 		         <p class="text-justify m-textrr4 p-l-30 p-r-30">
 		         	<b> The Higher Education Department (HED) </b>offers degree programs in Accountancy, Accounting Technology, Business Administration, Elementary and Secondary Education, Hotel and Restaurant Management, Information Technology, Tourism Management, and Psychology. The Center for Continuing Education offers non-degree programs and short courses such as English as a Second Language (ESL) and TESDA course on Bread and Pastry Production (BPP). Recently, TESDA Central office audit team reported the compliance of the school’s BPP program on its training regulations. FEU CAVITE – HED already has four batches of graduates, a total of 496 comprising the alumni roster. The graduates are well-placed in various industries.
